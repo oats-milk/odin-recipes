@@ -15,13 +15,13 @@ body {
     text-align: center;
 }   
 
-.description {
+/* .description {
 
 }
 
 .internal-link {
 
-}
+} */
 
 .food-image {
     width:500px;
@@ -29,13 +29,13 @@ body {
     margin: 0 auto;
 }
 
-.ingredients {
+/* .ingredients {
 
 }
 
 .instructions {
 
-}
+} */
 
 .child {
     text-align: center;
