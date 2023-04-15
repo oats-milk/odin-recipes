@@ -11,7 +11,7 @@ body {
 
 .heading {
     color:white;
-    background-color:gray;
+    background-color:green;
     text-align: center;
 }   
 
@@ -24,11 +24,6 @@ body {
 }
 
 .food-image {
-    height:100%;
-    width:100%;
-}
-
-.recipe.list {
     width:500px;
     text-align: center;
     margin: 0 auto;
@@ -44,4 +39,12 @@ body {
 
 .child {
     text-align: center;
+}
+
+.ingredients.child {
+    text-align: left;
+}
+
+.instructions.child {
+    text-align: left;
 }
